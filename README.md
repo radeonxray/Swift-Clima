@@ -3,6 +3,9 @@ Small and simple Clima app for iOS
 
 User can enter the name of the city and see its current weather status and temperature
 
+![clima-changecity](./clima-changecity.png)
+![clima-frontview](./clima-frontview.png)
+
 App Technical Details:
 
 - Show the use of multiple View Controllers
